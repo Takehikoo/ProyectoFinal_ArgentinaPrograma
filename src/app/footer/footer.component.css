@@ -1,0 +1,28 @@
+/* FOOTER */
+
+footer{
+    bottom: 0;
+    position: fixed;
+    
+    
+}
+
+.icons:hover{
+    color: #EA5455;
+    cursor: pointer;
+}
+
+.location{
+    font-size: 18px;
+    color: white;
+}
+
+.linkActive{
+    color:  Red;
+}
+.icons{
+    padding: 15px;
+    margin: 50px 10px;
+    font-size: 18px;
+    color: white;
+}

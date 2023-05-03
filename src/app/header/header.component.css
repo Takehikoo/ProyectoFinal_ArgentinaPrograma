@@ -1,0 +1,66 @@
+/*Header*/
+
+.blanco{
+    color: white;
+}
+
+.navbar{
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 2px;
+
+}
+
+header{
+    margin: auto ;
+    width: 80%;
+    
+}
+
+.fixed-top{
+    width: 80%;
+    margin: auto;
+}
+
+
+
+#first_tittle{
+    font-size: 20px;
+    letter-spacing: 5px;
+    font-weight: 600;
+    color: white;
+    
+}
+    /*Header Icons*/
+
+ul{
+    align-items: center;  
+    color: wheat;
+}
+
+li{
+  padding: 15px;
+  font-size:15px;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: white;
+}
+
+li a,a:visited{
+    padding: 0px 5px;
+    color: white;
+}
+
+li:hover{
+    color:#EA5455;
+}
+
+a:hover{
+    color:#EA5455;
+    text-decoration: none;    
+}
+
+.sacarsubrayado{
+    text-decoration: none;
+    color: black;
+}

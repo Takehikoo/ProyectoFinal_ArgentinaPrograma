@@ -1,0 +1,40 @@
+/* You can add global styles to this file, and also import other style files */
+
+    /*Global*/
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 2px;
+
+}
+
+*::selection{
+    color: #EA5455;
+
+}
+.scrollDown, .scrollDown nav{
+    background-color: rgba(56, 56, 56, 0.411);
+        
+}
+    
+
+*{
+    background: fixed url(https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) black; 
+    background-size: 100vw 100vh;
+}
+
+.name{
+    font-family: 'Poppins', sans-serif;
+    color: #EA5455;
+}
+.secondName{
+    font-family: 'Poppins', sans-serif;
+}
+
+.parrafo{
+    color: white;
+    font-size: 25px;
+}
